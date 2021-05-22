@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there I am Harsha👋
+
+
+<a href='linkedin.com/in/harsha-narayan-896b5319a'><img src="https://img.icons8.com/fluent/24/000000/linkedin-2.png"/></a>
+
+
 
 <!--
 **hhn20/hhn20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
